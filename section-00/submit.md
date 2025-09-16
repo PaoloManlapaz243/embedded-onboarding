@@ -1,0 +1,4 @@
+.git
+.gitattributes
+.github
+.gitignore
