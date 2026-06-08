@@ -3,8 +3,8 @@
 
 typedef struct
 {
-    int cols;
     int rows;
+    int cols;
     int* data;
 } matrix_t;
 
